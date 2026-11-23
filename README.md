@@ -4,7 +4,7 @@
 
 I'm based in **Stockholm, Sweden**, with a background in marketing and hands-on experience in **customer analytics, CRM, data quality and BI**.
 
-I enjoy turning complex data into clear insights that help teams make better decisions — from analyzing customer behavior to building useful reporting and automation workflows.
+I enjoy turning complex data into clear insights that help teams make better decisions - from analyzing customer behavior to building useful reporting and automation workflows.
 
 ### What I work with
 
